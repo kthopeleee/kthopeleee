@@ -7,6 +7,7 @@ I'm a software engineer passionate about human-computer interaction and the appl
 * 🏖️ Over the summer, I was accepted to Yonsei University to study computer graphics and machine learning. Concurrently, I will be working at the Alan Turing Institute, focusing on coding products that enhance data transparency.
 * 🏫 I am pursuing a degree in Computer Science with minors in economics and psychology at Columbia University. Courses I've particularly enjoyed include: Systems Programming, Databases, Multivariable Calculus, Linear Algebra, Frontiers of Astrophysics, Urban Ecology
 * 🛠️ I am engaged in several projects including Developing and fine-tuning chatbots, Leveraging the Spotify API for data-driven insights, Developing CNNs for visualized audio and images
-* 🐦 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/katherinehopelee/).
+  <br>
+🐦 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/katherinehopelee/).
 
 
